@@ -2,7 +2,7 @@
  * heapsort.c
  *
  *  Created on: Jul 1, 2013
- *      Author:
+ *      Author @ Curtis Alves
  */
 #include <stdio.h>
 #include <stdlib.h>
